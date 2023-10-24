@@ -1,0 +1,8 @@
+# Ignore gitpush.sh
+gitpush.sh
+
+# Ignore extra python files
+
+
+# Ignore folders
+__pycachce__/
